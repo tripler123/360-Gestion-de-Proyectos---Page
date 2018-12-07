@@ -1,6 +1,6 @@
-### 360 GESTION DE PROYECTOS - PAGE
+## 360 GESTION DE PROYECTOS - PAGE
 
-## CONTENT
+### CONTENT
 - [ ] Welcome Page
 - [ ] Welcome Page
 - [ ] Service Page
