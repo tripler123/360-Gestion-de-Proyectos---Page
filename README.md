@@ -2,11 +2,11 @@
 
 ## CONTENT
 - [ ] Welcome Page
-*[ ] Welcome Page
-*[ ] Service Page
-*[ ] Portafolio Page
-*[ ] About Page
-*[ ] Blog Page
-*[ ] Testimonial page
-*[ ] Team Page
-*[ ] Contact Page
+- [ ] Welcome Page
+- [ ] Service Page
+- [ ] Portafolio Page
+- [ ] About Page
+- [ ] Blog Page
+- [ ] Testimonial page
+- [ ] Team Page
+- [ ] Contact Page
