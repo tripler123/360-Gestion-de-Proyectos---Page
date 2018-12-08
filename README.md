@@ -1,9 +1,8 @@
 ### 360 GESTION DE PROYECTOS - PAGE
 
 ## CONTENT
-- [ ] Welcome Page
-- [ ] Welcome Page
-- [ ] Service Page
+- [X] Home Page
+- [X] Service Page
 - [ ] Portafolio Page
 - [ ] About Page
 - [ ] Blog Page
